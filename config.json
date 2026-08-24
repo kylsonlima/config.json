@@ -1,0 +1,14 @@
+{
+  "zonasUrbanas": [
+    "SUPORTE EXTERNO – ZONA LESTE",
+    "SUPORTE EXTERNO – ZONA NORTE",
+    "SUPORTE EXTERNO – ZONA SUL",
+    "SUPORTE EXTERNO – ZONA SUDESTE"
+  ],
+  "fraseologias": {
+    "21h": "Obrigado por aguardar! Seu suporte residencial de protocolo número: (insira a OS) já foi solicitado... [Atendimento até 21h]",
+    "picos_barras": "Obrigado por aguardar! Seu suporte residencial de protocolo número: (insira a OS) já foi solicitado... [Atendimento até 18h diário]",
+    "domingo_18h": "Obrigado por aguardar! Seu suporte residencial de protocolo número: (insira a OS) já foi solicitado... [Seg-Sex e Dom 18h / Sáb 12h]",
+    "interior_padrao": "Obrigado por aguardar! Seu suporte residencial de protocolo número: (insira a OS) já foi solicitado... [Seg-Sex 18h / Sáb 12h]"
+  }
+}

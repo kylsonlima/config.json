@@ -7,7 +7,11 @@
   ],
   "excecoesPrioritarias": [
     {
-      "termo": "sao vicente", "saturno",
+      "termo": "sao vicente",
+      "grupo": "interior_padrao"
+    },
+    {
+      "termo": "saturno",
       "grupo": "interior_padrao"
     },
     {

@@ -27,6 +27,11 @@
       "grupo": "domingo_18h"
     }
   ],
+  {
+      "termo": "Estaca zero",
+      "grupo": "interior_padrao"
+    }
+],
   "fraseologias": {
     "21h": "Obrigado por aguardar! Seu suporte residencial de protocolo número: (atenção, insira o número da OS aqui) já foi solicitado e será recebido através de nosso sistema pelo setor responsável pelo seu atendimento. Nossas equipes externas atendem de 08:30h até às 21h, se o seu suporte não for atendido hoje, segue o mesmo horário no dia seguinte e assim sucessivamente. O atendimento é feito de acordo com a demanda e seguindo a ordem de solicitação, mas sempre atendemos o mais rápido possível. Fique atento ao telefone informado. Tem algo mais em que posso lhe ajudar?",
     "picos_barras": "Obrigado por aguardar! Seu suporte residencial de protocolo número: (atenção, insira o número da OS aqui) já foi solicitado e será recebido através de nosso sistema pelo setor responsável pelo seu atendimento. Nossas equipes externas atendem de 08:30h até às 18h, inclusive aos domingos. Se o seu suporte não for atendido hoje, segue o mesmo horário no dia seguinte e assim sucessivamente. O atendimento é feito de acordo com a demanda e seguindo a ordem de solicitação, mas sempre atendemos o mais rápido possível. Fique atento ao telefone informado. Tem algo mais em que posso lhe ajudar?",

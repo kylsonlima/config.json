@@ -18,7 +18,10 @@
     { "termo": "piaui (norte)", "responsavel": "@Andreia_24" },
     { "termo": "piaui (sul)", "responsavel": "@euvitormoura" }
   ],
-  "escala12x36": "@Jelson1480 / @Edsonn_F",
+  "escala12x36": {
+    "pares": "@franciscoporfavor / @Jose_william2",
+    "impares": "@Jelson1480 / @Edsonn_F"
+  },
   "excecoesPrioritarias": [
     {
       "termo": "sao vicente",
